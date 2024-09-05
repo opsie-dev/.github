@@ -1,3 +1,0 @@
-# opsie.dev
-
-TBD
