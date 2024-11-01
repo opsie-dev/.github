@@ -1,5 +1,6 @@
 # opsie.dev
 
+<!--
 <p align="center">
     <img
         height="20"
@@ -81,6 +82,7 @@
         src="https://img.shields.io/badge/-Helm-181717?style=flat-square&logo=Helm&color=purple"/>
 </p>
 
+-->
 
 <!--
 <p align="center">
